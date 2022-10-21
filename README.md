@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mintoua
-- 👀 I’m interested in FPGA Developpement with VHDL Language and PHP Symfony Web Developpement
-- 🌱 I’m currently learning how to code with turbo in a symfony 6 project
-- 💞️ I’m looking to collaborate on symfony web developpement projects or FPGA with VHDL Projects
+- 👀 I’m interested in FPGA Developpement with VHDL Language, Embedded Software Development and PHP Symfony Web Development
+- 🌱 I’m currently learning how to built RTOS for STM32
+- 💞️ I’m looking to collaborate on symfony web developpement projects, FPGA with VHDL Projects or embedded software.
 - 📫 How to reach me toupkandimintoua@gmail.com
 
 <!---
