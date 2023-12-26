@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mintoua
-- 👀 I’m interested in FPGA Developpement with VHDL Language, Embedded IoT Software Development and Web Development
-- 🌱 I’m currently learning how to implement microservices 
-- 💞️ I’m looking to collaborate on symfony web developpement projects, FPGA with VHDL Projects, embedded software, spring boot projects.
+- 👀 I’m interested in Blockchain and Mobile development, Embedded IoT Software Development and Web Development
+- 🌱 I’m currently learning how to implement microservices with Spring Framework
+- 💞️ I’m looking to collaborate on symfony web developpement projects, fulstack projects, embedded software, spring boot projects.
 - 📫 How to reach me toupkandimintoua@gmail.com
 
 <!---
