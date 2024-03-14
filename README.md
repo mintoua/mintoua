@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mintoua
 - 👀 I’m interested in Blockchain and Mobile development, Embedded IoT Software Development and Web Development
-- 🌱 I’m currently learning how to implement microservices with Spring Framework and product designing et project managementSCRUM
-- 💞️ I’m looking to collaborate on symfony web developpement projects, fullstack projects, embedded  projects, spring boot projects.
+- 🌱 I’m currently learning how to implement microservices with Spring Framework and IoT Software Designing
+- 💞️ I’m looking to collaborate on symfony web developpement projects, embedded iot projects, spring boot projects.
 - 📫 How to reach me toupkandimintoua@gmail.com
 
 <!---
