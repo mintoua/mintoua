@@ -21,9 +21,6 @@
 
 - 📫 How to reach me **toupkandimintoua@gmail.com**
 
-- 🤗 Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. **https://huggingface.co/Abhishek0323** 
-  
-
 
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
@@ -48,21 +45,6 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a>
 
 
-
-
-## :bar_chart:  My Stats
-
-<p align="center"> <b>Profile Views<b> 
-  <br>
-  <img src="https://profile-counter.glitch.me/{abhi0323}/count.svg" alt="Profile Visits" />
-</p>
-
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi0323&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhi0323&show_icons=true&theme=merko" align="left" height=160em>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0323&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 <!---
 mintoua/mintoua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
