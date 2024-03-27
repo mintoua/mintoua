@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Mintoua+Toupkandi+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Mintoua+Toupkandi+and+Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Blockchain and Mobile development, Embedded IoT Software Development and Web Development
 - 🌱 I’m currently learning how to implement microservices with Spring Framework and IoT Software Designing
