@@ -2,20 +2,19 @@
 - 🌱 I’m currently learning how to implement microservices with Spring Framework and IoT Software Designing
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Abhishek+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 <h3 align="center">Embedded IOT Enthusiast | Software Engineer | IT Trainer in Software Development</h3>
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mintoua-toupkandi/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI Projects**
+- 🔭 I’m currently working on **Web dev with NestJs and NextJs Projects**
 
 - 🌱 I’m currently learning how to implement microservices with Spring Framework, nestJS with Typescript and IoT Software Designing
 
 - 💞️ I’m looking to collaborate on symfony web developpement projects, embedded iot projects, spring boot projects.
 
-- 💬 Ask me about **IoT Engineering, Web Development**
+- 💬 Ask me about **Embedded IoT Engineering, Web Development**
 
 - ⚡ Fun fact **I am an excellent cook**
 
