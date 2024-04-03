@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Embedded IoT Engineering, Web Development, Software engineering**
 
-- ⚡ Fun fact **I am an excellent cook**
+- ⚡ Fun fact **I am an excellent cookR**
 
 - 📫 How to reach me **toupkandimintoua@gmail.com**
 
