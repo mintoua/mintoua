@@ -3,15 +3,15 @@
 
 - 👀 I’m interested in Software development, Embedded IoT Software Development and Web Development
 
-<h3 align="center">Embedded IOT Enthusiast | Software Engineer | IT Trainer in Software Development</h3>
+<h3 align="center">Embedded IOT Enthusiast | Software Engineer | IT Trainer in Software Web Development</h3>
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <a href="https://www.linkedin.com/in/mintoua-toupkandi/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Web dev with NestJs and NextJs Projects**
+- 🔭 I’m currently working on **Web dev with NestJs and Spring Boot Projects**
 
-- 🌱 I’m currently learning how to implement microservices with Spring Framework, TDD with NestJs Jest Typescript and IoT Software Designing
+- 🌱 I’m currently learning how to implement microservices with Spring Framework, TDD & DDD with NestJs Jest and IoT Software Designing
 
 - 💞️ I’m looking to collaborate on symfony web developpement projects, embedded iot projects, spring boot projects.
 
